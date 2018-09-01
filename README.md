@@ -1,0 +1,2 @@
+# barokah.js
+barokah
